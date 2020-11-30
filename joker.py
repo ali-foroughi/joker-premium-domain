@@ -2,7 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-api_token = 'ef7af10d7729afd44f0445b16ad2a25b1dd24332d9bf0c6ac01ccf13e04d5860'
+api_token = 'type_your_token'
 dmapi_url = 'https://dmapi.joker.com/request/'
 domain = input('Please enter the domain name: ')
 status = ''
